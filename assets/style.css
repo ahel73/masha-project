@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main {
+    background: rgb(255 255 0);
+    height: 100vh;
+    width: 1325px;
+    padding: 0 10px;
+    margin: 0 auto;
+}
